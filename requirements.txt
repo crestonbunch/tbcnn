@@ -1,0 +1,9 @@
+requests
+requests-cache
+GitPython
+tensorflow-gpu>=1.1.0rc1
+scikit-learn
+scipy
+MySQL-python
+sshtunnel
+scrapy
