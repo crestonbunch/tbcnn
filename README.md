@@ -68,6 +68,8 @@ To download algorithm data from GitHub and parse the syntax trees into an output
 
     $ mkdir crawler/data
     $ crawl algorithms --out crawler/data/algorithms.pkl
+    
+**Alternatively:** a sample dataset fetched in the same way is saved in crawler/algorithms.zip. You can simply unzip it into the crawler/data directory.
 
 Vectorizer
 ----------
